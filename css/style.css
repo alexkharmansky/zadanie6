@@ -1,0 +1,26 @@
+@font-face {
+	font-family: ArvoRegular;
+	src: url(../fonts/ArvoRegular.ttf);
+}
+@font-face {
+	font-family: NotoSans;
+	src: url(../fonts/NotoSans-Regular.ttf);
+}
+img {
+	height: 130px;
+}
+.container {
+	padding-top: 50px;
+}
+h2, h4 {
+	font-family: ArvoRegular;
+}
+h4 {
+	padding: 25px 0 5px 0;
+	font-size: 22px;
+}
+p {
+	font-family: NotoSans;
+	font-size: 15px;
+	padding-bottom: 20px;
+}
